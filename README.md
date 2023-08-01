@@ -1,16 +1,38 @@
-# app
+<h1 align="center">Hi 👋, I'm BS</h1>
+<h3 align="center">A passionate mobile developer</h3>
 
-A new Flutter project.
 
-## Getting Started
+<h3 align="left">In this app</h3>
 
-This project is a starting point for a Flutter application.
+<h4>
+  In this repository you will find how to use popup menu  and  drawer .  Lastly enjoy the code.
+ 
+</h4>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+https://github.com/bayram33/navigate_UI/assets/120327635/36b4661d-9f7a-4a0e-b85e-77aef85ffe4f
+
+
+
+
+
+
+<br>
+<br>
+
+- 📫 How to reach me **s.bayram.1037@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/flutterloverr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutterloverr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
